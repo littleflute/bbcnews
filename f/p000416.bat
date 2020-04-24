@@ -1,0 +1,1 @@
+ffmpeg -i v1.mp4 -ss 00:04:16 -t 1 -r 1 -q:v 2 -f image2 p000416.jpg
