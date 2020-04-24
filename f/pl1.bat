@@ -1,0 +1,1 @@
+ffmpeg -i 200424-074922.wmv  -filter:v "crop=320:240" l.mp4
